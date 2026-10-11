@@ -21,7 +21,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phantranthelinh/phantranthelinh/output/pacman-contribution-graph.svg">
 </picture>
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
